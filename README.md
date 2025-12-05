@@ -2,9 +2,11 @@
 
 Project Overview
 
-SDGP-Test is a practice repository created to prepare for the main Software Development Group Project. This repository serves as a training ground for team collaboration, version control workflows, and implementing basic front-end development practices using HTML, CSS, and JavaScript.
+SDGP-Test is a practice repository created to prepare for the main Software Development Group Project. This repository serves as a training ground for team collaboration, version control workflows, and implementing basic front-end development practices using React.
 
 Objective
+![image4-1](https://github.com/user-attachments/assets/1fb8c369-e398-4cd1-8e1f-66f95a1191f5)
+
 
 The primary goal is to recreate a functional clone of the FedEx shipping interface as shown in the provided design. This exercise will help the team:
 
