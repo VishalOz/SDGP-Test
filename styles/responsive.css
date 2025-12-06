@@ -2,27 +2,27 @@
 
 /* Tablet devices */
 @media (max-width: 768px) {
-  .container {
-    padding: 15px;
-  }
+    .container {
+        padding: 15px;
+    }
 
-  .navbar ul {
-    flex-direction: column;
-    gap: 1rem;
-  }
+    .navbar ul {
+        flex-direction: column;
+        gap: 1rem;
+    }
 }
 
 /* Mobile devices */
 @media (max-width: 480px) {
-  body {
-    font-size: 14px;
-  }
+    body {
+        font-size: 14px;
+    }
 
-  .container {
-    padding: 10px;
-  }
+    .container {
+        padding: 10px;
+    }
 
-  .navbar ul {
-    gap: 0.5rem;
-  }
+    .navbar ul {
+        gap: 0.5rem;
+    }
 }
